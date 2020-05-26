@@ -19,6 +19,8 @@ os.chdir(path)
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hospital.settings')
 
+import django
+django.setup()
 
 from django.core.wsgi import get_wsgi_application
 
