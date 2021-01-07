@@ -20,7 +20,7 @@ django-templated-mail==1.1.1
 fake-useragent==0.1.11
 filelock==3.0.12
 idna==2.8
-lxml==4.5.0
+lxml==4.6.2
 parse==1.15.0
 pep8==1.7.1
 Pillow==7.0.0
