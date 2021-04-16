@@ -15,7 +15,7 @@ Django==2.2.10
 django-braces==1.14.0
 django-countries==5.3.3
 django-crispy-forms==1.7.2
-django-debug-toolbar==1.10.1
+django-debug-toolbar==1.11.1
 django-templated-mail==1.1.1
 fake-useragent==0.1.11
 filelock==3.0.12
