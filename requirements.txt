@@ -24,7 +24,7 @@ lxml==4.5.0
 parse==1.15.0
 pep8==1.7.1
 Pillow==7.0.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 ply==3.11
 pycodestyle==2.5.0
 pycparser==2.20
